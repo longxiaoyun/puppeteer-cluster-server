@@ -1,4 +1,5 @@
-##### 1. 使用 `puppeteer-cluster` https://github.com/thomasdondorf/puppeteer-cluster做为一个微服务供其他应用使用，也可以当作是一个单独的渲染服务,具体渲染逻辑还再继续优化
+##### 1. 使用 `puppeteer-cluster` https://github.com/thomasdondorf/puppeteer-cluster
+做为一个微服务供其他应用使用，也可以当作是一个单独的渲染服务,具体渲染逻辑还再继续优化
 
 
 
