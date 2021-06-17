@@ -14,6 +14,7 @@
     "eureka-js-client": "^4.5.0",
     "express": "^4.17.1",
     "puppeteer": "^9.1.1",
+    "puppeteer-autoscroll-down": "^0.1.7",
     "puppeteer-cluster": "^0.22.0",
     "puppeteer-extra": "^3.1.18",
     "puppeteer-extra-plugin-stealth": "^2.7.8"
